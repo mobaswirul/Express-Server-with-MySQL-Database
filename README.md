@@ -1,6 +1,6 @@
 # Express-Server-with-MySQL-Database
 
-This is a simple (may be the simplest) Express server with MySQL database. 
+This is a tutorial to build a simple (may be the simplest) Express server with MySQL database. 
 
 ## Option 1: Clone and Run
 - Clone or download the repository.
